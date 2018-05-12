@@ -1,0 +1,31 @@
+_repo: Gov.-Bob.-Taylor-s-Tales--13--The-fiddle-and-the-bow----The-paradise-of-fools----Visions-and-__20171
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, Robt. L. (Robert Love)
+    aliases:
+    - Taylor, Bob
+    - Taylor, Robert Love
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '9122'
+    url: http://www.gutenberg.org/2009/agents/9122
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Love_Taylor
+description: ''
+gutenberg_issued: '2006-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Speeches, addresses, etc.'
+title: "Gov. Bob. Taylor's Tales\r\n\"The fiddle and the bow,\" \"The paradise of\
+  \ fools,\" \"Visions and dreams\""
+url: http://www.gutenberg.org/ebooks/20171
